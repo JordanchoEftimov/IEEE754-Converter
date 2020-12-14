@@ -1,0 +1,17 @@
+﻿  MyForm.cpp
+C:\Users\User\source\repos\Project2\Project2\MyForm.h(460,27): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\User\source\repos\Project2\Project2\MyForm.h(464,22): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\User\source\repos\Project2\Project2\MyForm.h(507,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\source\repos\Project2\Project2\MyForm.h(547,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\source\repos\Project2\Project2\MyForm.h(548,1): warning C4244: '+=': conversion from 'double' to 'unsigned long', possible loss of data
+C:\Users\User\source\repos\Project2\Project2\MyForm.h(556,42): warning C4244: '=': conversion from 'wchar_t' to 'char', possible loss of data
+C:\Users\User\source\repos\Project2\Project2\MyForm.h(559,42): warning C4244: '=': conversion from 'wchar_t' to 'char', possible loss of data
+C:\Users\User\source\repos\Project2\Project2\MyForm.h(609,1): warning C4244: '+=': conversion from 'double' to 'unsigned __int64', possible loss of data
+C:\Users\User\source\repos\Project2\Project2\MyForm.h(617,42): warning C4244: '=': conversion from 'wchar_t' to 'char', possible loss of data
+C:\Users\User\source\repos\Project2\Project2\MyForm.h(620,42): warning C4244: '=': conversion from 'wchar_t' to 'char', possible loss of data
+C:\Users\User\source\repos\Project2\Project2\MyForm.h(661,1): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+C:\Users\User\source\repos\Project2\Project2\MyForm.h(692,24): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+C:\Users\User\source\repos\Project2\Project2\MyForm.h(728,27): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\User\source\repos\Project2\Project2\MyForm.h(736,26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  MyForm.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  Project2.vcxproj -> C:\Users\User\source\repos\Project2\Debug\Project2.exe
